@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="./assets/header.gif" alt="is-at-the.top">
-</p>
+<div align="center">
 
 # Register your `.is-at-the.top` subdomain
 
@@ -71,7 +69,7 @@ After that, the service will remain focused on keeping personal subdomains affor
 
 If your PR fails a check, read the error first. Most problems are small things like an invalid name or DNS record.
 
-If you're still stuck, open a [issue](https://github.com/is-at-the-top/register/issues/new?template=question.yml).
+If you're still stuck, open an [issue](https://github.com/is-at-the-top/register/issues/new?template=question.yml).
 
 Please don't open an issue just to ask us to merge your PR faster. We promise the red notification isn't helping. :)
 
@@ -83,7 +81,9 @@ Please don't open an issue just to ask us to merge your PR faster. We promise th
 
 Found a subdomain being used for something that shouldn't be there?
 
-Please report it through our [abuse report page](https://is-at-the.top/abuse) or [GitHub Issues](https://is-at-the.top/abuse).
+Please report it through our [abuse report page](https://is-at-the.top/abuse).
+
+For non-sensitive questions or technical problems, you can use [GitHub Issues](https://github.com/is-at-the-top/register/issues).
 
 Please include the subdomain and enough information for us to understand what's happening.
 
@@ -124,3 +124,5 @@ No need to ping anyone specifically, just ask your question and someone will get
 And if you spot something that needs fixing, feel free to open an issue or submit a pull request.
 
 **Thanks for helping us make this better.**
+
+</div>
