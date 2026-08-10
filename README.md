@@ -4,13 +4,7 @@
 
 # Register your `.is-at-the.top` subdomain
 
-This repository is where the `.is-at-the.top` registry lives.
-
-Want your own place on the internet? You can claim a subdomain like:
-
-`yourname.is-at-the.top`
-
-The service is built around GitHub, so the registry stays public and changes can be reviewed openly.
+</div>
 
 ---
 
@@ -126,5 +120,3 @@ No need to ping anyone specifically, just ask your question and someone will get
 And if you spot something that needs fixing, feel free to open an issue or submit a pull request.
 
 **Thanks for helping us make this better.**
-
-</div>
