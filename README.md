@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="./assets/header.gif" alt="is-at-the.top">
+
 # Register your `.is-at-the.top` subdomain
 
 This repository is where the `.is-at-the.top` registry lives.
