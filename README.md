@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/header.gif" alt="is-at-the.top">
+<img src="./assets/top-logo.gif" alt="is-at-the.top">
 
 # Register your `.is-at-the.top` subdomain
 
