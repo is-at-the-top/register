@@ -1,0 +1,32 @@
+name: Question
+description: Ask a question about is-at-the.top.
+title: "[Question]: "
+labels:
+
+* question
+  body:
+
+* type: markdown
+  attributes:
+  value: |
+  Have a question? Ask away!
+
+  ```
+  For general discussion or quick help, you can also join our Discord community.
+  ```
+
+* type: textarea
+  id: question
+  attributes:
+  label: What's your question?
+  description: Tell us what you'd like to know.
+  placeholder: Ask your question here.
+  validations:
+  required: true
+
+* type: textarea
+  id: context
+  attributes:
+  label: Anything else?
+  description: Add any relevant context, links, or information.
+  placeholder: Additional information, if needed.
