@@ -1,0 +1,15 @@
+blank_issues_enabled: false
+
+contact_links:
+
+* name: Security vulnerability
+  url: https://github.com/is-at-the-top/register/security/advisories/new
+  about: Please report security vulnerabilities privately instead of opening a public issue.
+
+* name: Abuse report
+  url: https://is-at-the.top/abuse
+  about: Report spam, phishing, malware, impersonation, or other abuse involving an is-at-the.top subdomain.
+
+* name: Community & support
+  url: https://discord.gg/
+  about: Ask questions, get help, or chat with the is-at-the.top community on Discord.
