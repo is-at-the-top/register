@@ -1,0 +1,54 @@
+name: Bug report
+description: Report something that isn't working as expected.
+title: "[Bug]: "
+labels:
+
+* bug
+  body:
+
+* type: markdown
+  attributes:
+  value: |
+  Thanks for taking the time to report a bug!
+
+  ```
+  Please check existing issues before opening a new one.
+  ```
+
+* type: textarea
+  id: description
+  attributes:
+  label: What happened?
+  description: Tell us what went wrong.
+  placeholder: Describe the problem clearly.
+  validations:
+  required: true
+
+* type: textarea
+  id: reproduction
+  attributes:
+  label: How can we reproduce it?
+  description: Include the steps needed to reproduce the problem.
+  placeholder: |
+  1. Go to...
+  2. Run...
+  3. See...
+
+* type: textarea
+  id: expected
+  attributes:
+  label: What did you expect to happen?
+  placeholder: Describe what you expected.
+
+* type: textarea
+  id: actual
+  attributes:
+  label: What happened instead?
+  placeholder: Describe what actually happened.
+
+* type: textarea
+  id: additional
+  attributes:
+  label: Additional information
+  description: Add logs, screenshots, links, or anything else that might help.
+  placeholder: Anything else we should know?
